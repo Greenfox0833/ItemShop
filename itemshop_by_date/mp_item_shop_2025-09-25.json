@@ -1,0 +1,98 @@
+{
+  "date": "2025-09-25",
+  "generatedAt": "2025-09-25T06:53:52.164387+09:00",
+  "count": 9,
+  "sections": [
+    {
+      "sectionId": "BlackWidowThunderWidowD",
+      "displayName": "マーベル",
+      "customTexture": "https://cdn2.unrealengine.com/marvel-sectionbg-v4-1921x1081-a0381801b3ec.png",
+      "offerGroupsCount": 9,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_Researcher_BG-09b2f6ec.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Researcher_Characters-7a8a5870.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Researcher_Figures-fabf9bbf.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Researcher_ItemStack-f79577b9.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Researcher_Logo-c944b8e8.png"
+      ],
+      "stackRankStart": "2025-09-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattleReady0925",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LordZedd",
+      "displayName": "パワーレンジャー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_PowerRangers-1533c580.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BatmobileOnly",
+      "displayName": "Batmobile",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Section_EggPlant_BG_02-3c15fca2.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Car-9e2d12cc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Logo-80e82a17.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_ItemStack-dac6b6da.png"
+      ],
+      "stackRankStart": "2025-09-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VANESSUH'SLOCKER",
+      "displayName": "Vanessuhのロッカー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Red-5973f985.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "CyberInfiltration",
+      "displayName": "サイバーインフィルトレーション",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_CorvidStomp_BG.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DeathZero",
+      "displayName": "DC",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_GuineaPig_Section_BG-d2db840c.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Boundless",
+      "displayName": "バウンドレス",
+      "customTexture": "https://cdn2.unrealengine.com/berrytartriver-section-1920x1080-6462e6d8b241.jpg",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT0925",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-25T00:00:00.000Z"
+    }
+  ]
+}

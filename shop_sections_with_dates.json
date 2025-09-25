@@ -1,0 +1,385 @@
+[
+  {
+    "sectionId": "JT0919",
+    "displayName": "ジャムトラック",
+    "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+    "offerGroupsCount": 4,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "AdidasNikeAirNEW",
+    "displayName": "シューズをゲットしよう",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Purple-c0cf057d.png",
+    "offerGroupsCount": 2,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-20T00:00:00.000Z"
+  },
+  {
+    "sectionId": "BattleReady0922",
+    "displayName": "戦闘準備完了",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0012_OG-Rays-621aca70.png",
+    "offerGroupsCount": 10,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-22T00:00:00.000Z"
+  },
+  {
+    "sectionId": "KaiCenatBundle",
+    "displayName": "Kai Cenat",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_EssayView_SectionBG-f576b41b.png",
+    "offerGroupsCount": 20,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "BlockClassicStormroot",
+    "displayName": "乗り物のアクセサリー",
+    "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+    "offerGroupsCount": 1,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "PatrickMahomes",
+    "displayName": "Patrick Mahomes",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_SWVehicle_Section-1b21bddd.png",
+    "offerGroupsCount": 2,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "BatCatMobile",
+    "displayName": "ゴッサムシティ",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Section_EggPlant_BG_02-3c15fca2.png",
+    "offerGroupsCount": 5,
+    "hasTextureMetadata": true,
+    "textureUrls": [
+      "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Car-9e2d12cc.png",
+      "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Logo-80e82a17.png",
+      "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_ItemStack-dac6b6da.png"
+    ],
+    "stackRankStart": "2025-09-20T00:00:00.000Z"
+  },
+  {
+    "sectionId": "JT0920",
+    "displayName": "ジャムトラック",
+    "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+    "offerGroupsCount": 4,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-20T00:00:00.000Z"
+  },
+  {
+    "sectionId": "PlatinumSeries",
+    "displayName": "プラチナアイコン",
+    "customTexture": "https://cdn2.unrealengine.com/billboard-tofuresort-bg-1920x1080-91ab6d5624f3.png",
+    "offerGroupsCount": 12,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-20T00:00:00.000Z"
+  },
+  {
+    "sectionId": "BlackWidowThunder",
+    "displayName": "マーベル",
+    "customTexture": "https://cdn2.unrealengine.com/marvel-sectionbg-v4-1921x1081-a0381801b3ec.png",
+    "offerGroupsCount": 7,
+    "hasTextureMetadata": true,
+    "textureUrls": [
+      "https://cdn2.unrealengine.com/sk-Billboard_Researcher_BG-09b2f6ec.png",
+      "https://cdn2.unrealengine.com/sk-Billboard_Researcher_Characters-7a8a5870.png",
+      "https://cdn2.unrealengine.com/sk-Billboard_Researcher_Figures-fabf9bbf.png",
+      "https://cdn2.unrealengine.com/sk-Billboard_Researcher_ItemStack-f79577b9.png",
+      "https://cdn2.unrealengine.com/sk-Billboard_Researcher_Logo-c944b8e8.png"
+    ],
+    "stackRankStart": "2025-09-22T00:00:00.000Z"
+  },
+  {
+    "sectionId": "BattlePassCrew",
+    "displayName": "フォートナイトクルー&パス",
+    "customTexture": "https://cdn2.unrealengine.com/default-nexus-sectionbg-v2-1920x1080-0291bfbbfbf7.png",
+    "offerGroupsCount": 24,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "TMNTALL",
+    "displayName": "TMNT",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_EarthWax_SectionBG-41bdc885.png",
+    "offerGroupsCount": 30,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "BestSellers",
+    "displayName": "本日のベストセラー",
+    "customTexture": "https://cdn2.unrealengine.com/sk-BestSellers_BG-d8b15f25.png",
+    "offerGroupsCount": 4,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "NoSweat0916",
+    "displayName": "ノースウェット",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0003_Heavenly-Rays-3231768e.png",
+    "offerGroupsCount": 8,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "RangersZed",
+    "displayName": "パワーレンジャー",
+    "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_PowerRangers-1533c580.png",
+    "offerGroupsCount": 32,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "DeepBlazerDark",
+    "displayName": "乗り物のアクセサリー",
+    "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+    "offerGroupsCount": 2,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-21T00:00:00.000Z"
+  },
+  {
+    "sectionId": "ShocknAwesome",
+    "displayName": "Shock 'N Awesome",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0008_Gray-Rays-1d00dd56.png",
+    "offerGroupsCount": 12,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "Boarderlands4",
+    "displayName": "マッド・モクシィ",
+    "customTexture": "https://cdn2.unrealengine.com/billboard-future-shopbg-1920x1080-ffdfce9be575.png",
+    "offerGroupsCount": 2,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-22T00:00:00.000Z"
+  },
+  {
+    "sectionId": "JT0922",
+    "displayName": "ジャムトラック",
+    "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+    "offerGroupsCount": 4,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-22T00:00:00.000Z"
+  },
+  {
+    "sectionId": "VictoryVibes0922NEW",
+    "displayName": "ビクトリー・バイブス",
+    "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+    "offerGroupsCount": 2,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-22T00:00:00.000Z"
+  },
+  {
+    "sectionId": "MegastarCar",
+    "displayName": "Megastar",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Season3600_SectionBG-d0c062ed.png",
+    "offerGroupsCount": 3,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-20T00:00:00.000Z"
+  },
+  {
+    "sectionId": "DeepBlazerDarkNew",
+    "displayName": "乗り物のアクセサリー",
+    "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+    "offerGroupsCount": 1,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-20T00:00:00.000Z"
+  },
+  {
+    "sectionId": "SpiderNickIron",
+    "displayName": "マーベル",
+    "customTexture": "https://cdn2.unrealengine.com/31-40-billboard-bullet-sectionbg-v1-1920x1080-f0864998ca66.png",
+    "offerGroupsCount": 4,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-21T00:00:00.000Z"
+  },
+  {
+    "sectionId": "CaptainIronDareSpiderNick",
+    "displayName": "マーベル",
+    "customTexture": "https://cdn2.unrealengine.com/31-40-billboard-bullet-sectionbg-v1-1920x1080-f0864998ca66.png",
+    "offerGroupsCount": 12,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "Jager",
+    "displayName": "Jäger 619",
+    "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+    "offerGroupsCount": 4,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "LoeyaLockerBundle",
+    "displayName": "Loeyaのロッカー",
+    "customTexture": "https://cdn2.unrealengine.com/billboard-bikemold-section-1920x1080-da804c43e54f.jpg",
+    "offerGroupsCount": 4,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-21T00:00:00.000Z"
+  },
+  {
+    "sectionId": "NikeAirYugioh",
+    "displayName": "シューズをゲットしよう",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Purple-c0cf057d.png",
+    "offerGroupsCount": 2,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-21T00:00:00.000Z"
+  },
+  {
+    "sectionId": "JT0921",
+    "displayName": "ジャムトラック",
+    "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+    "offerGroupsCount": 4,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-21T00:00:00.000Z"
+  },
+  {
+    "sectionId": "Boarderlands4NEW",
+    "displayName": "マッド・モクシィ",
+    "customTexture": "https://cdn2.unrealengine.com/billboard-future-shopbg-1920x1080-ffdfce9be575.png",
+    "offerGroupsCount": 2,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-21T00:00:00.000Z"
+  },
+  {
+    "sectionId": "Gorillaz",
+    "displayName": "Gorillaz",
+    "customTexture": "https://cdn2.unrealengine.com/sk-PajamaSoar---Section-BG-1097c1d5.png",
+    "offerGroupsCount": 16,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "Delulu",
+    "displayName": "Delulu",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Delulu_SectionBG-11d41c56.png",
+    "offerGroupsCount": 3,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-20T00:00:00.000Z"
+  },
+  {
+    "sectionId": "BattleReady0920",
+    "displayName": "戦闘準備完了",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0012_OG-Rays-621aca70.png",
+    "offerGroupsCount": 8,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-20T00:00:00.000Z"
+  },
+  {
+    "sectionId": "BatCatMobileNinja",
+    "displayName": "ゴッサムシティ",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Section_EggPlant_BG_02-3c15fca2.png",
+    "offerGroupsCount": 12,
+    "hasTextureMetadata": true,
+    "textureUrls": [
+      "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Car-9e2d12cc.png",
+      "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Logo-80e82a17.png",
+      "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_ItemStack-dac6b6da.png"
+    ],
+    "stackRankStart": "2025-09-21T00:00:00.000Z"
+  },
+  {
+    "sectionId": "BattleReady0921",
+    "displayName": "戦闘準備完了",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0012_OG-Rays-621aca70.png",
+    "offerGroupsCount": 10,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-21T00:00:00.000Z"
+  },
+  {
+    "sectionId": "LimitedTime",
+    "displayName": "特別オファー&バンドル",
+    "customTexture": null,
+    "offerGroupsCount": 28,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "TMNT1",
+    "displayName": "TMNT",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_EarthWax_BG_1-2e379bd1.png",
+    "offerGroupsCount": 4,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-22T00:00:00.000Z"
+  },
+  {
+    "sectionId": "Delulu2",
+    "displayName": "Delulu",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Delulu_SectionBG-11d41c56.png",
+    "offerGroupsCount": 6,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-21T00:00:00.000Z"
+  },
+  {
+    "sectionId": "Peacemaker",
+    "displayName": "ピースメイカー",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_CamelGram_SectionBG-fe1dcc37.png",
+    "offerGroupsCount": 4,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "NikeAdidas",
+    "displayName": "シューズをゲットしよう",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Purple-c0cf057d.png",
+    "offerGroupsCount": 1,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "BattleReady0919",
+    "displayName": "戦闘準備完了",
+    "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0009_Purple-Rays-9ecc8840.png",
+    "offerGroupsCount": 6,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  },
+  {
+    "sectionId": "VictoryVibes0919",
+    "displayName": "ビクトリー・バイブス",
+    "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+    "offerGroupsCount": 6,
+    "hasTextureMetadata": false,
+    "textureUrls": [],
+    "stackRankStart": "2025-09-19T00:00:00.000Z"
+  }
+]

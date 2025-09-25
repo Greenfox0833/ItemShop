@@ -1,0 +1,83 @@
+{
+  "date": "2025-09-20",
+  "generatedAt": "2025-09-22T10:29:43.455592+09:00",
+  "count": 8,
+  "sections": [
+    {
+      "sectionId": "AdidasNikeAirNEW",
+      "displayName": "シューズをゲットしよう",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Purple-c0cf057d.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BatCatMobile",
+      "displayName": "ゴッサムシティ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Section_EggPlant_BG_02-3c15fca2.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Car-9e2d12cc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Logo-80e82a17.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_ItemStack-dac6b6da.png"
+      ],
+      "stackRankStart": "2025-09-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT0920",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "PlatinumSeries",
+      "displayName": "プラチナアイコン",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-tofuresort-bg-1920x1080-91ab6d5624f3.png",
+      "offerGroupsCount": 12,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "MegastarCar",
+      "displayName": "Megastar",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Season3600_SectionBG-d0c062ed.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DeepBlazerDarkNew",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Delulu",
+      "displayName": "Delulu",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Delulu_SectionBG-11d41c56.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattleReady0920",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0012_OG-Rays-621aca70.png",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-20T00:00:00.000Z"
+    }
+  ]
+}

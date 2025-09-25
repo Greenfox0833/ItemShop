@@ -1,0 +1,92 @@
+{
+  "date": "2025-09-21",
+  "generatedAt": "2025-09-22T10:29:43.455592+09:00",
+  "count": 9,
+  "sections": [
+    {
+      "sectionId": "DeepBlazerDark",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SpiderNickIron",
+      "displayName": "マーベル",
+      "customTexture": "https://cdn2.unrealengine.com/31-40-billboard-bullet-sectionbg-v1-1920x1080-f0864998ca66.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LoeyaLockerBundle",
+      "displayName": "Loeyaのロッカー",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-bikemold-section-1920x1080-da804c43e54f.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "NikeAirYugioh",
+      "displayName": "シューズをゲットしよう",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Purple-c0cf057d.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT0921",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Boarderlands4NEW",
+      "displayName": "マッド・モクシィ",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-future-shopbg-1920x1080-ffdfce9be575.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BatCatMobileNinja",
+      "displayName": "ゴッサムシティ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Section_EggPlant_BG_02-3c15fca2.png",
+      "offerGroupsCount": 12,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Car-9e2d12cc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Logo-80e82a17.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_ItemStack-dac6b6da.png"
+      ],
+      "stackRankStart": "2025-09-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattleReady0921",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0012_OG-Rays-621aca70.png",
+      "offerGroupsCount": 10,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Delulu2",
+      "displayName": "Delulu",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Delulu_SectionBG-11d41c56.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-21T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "date": "2025-09-23",
+  "generatedAt": "2025-09-23T07:32:58.414543+09:00",
+  "count": 8,
+  "sections": [
+    {
+      "sectionId": "BlackWidowThunderWidow",
+      "displayName": "マーベル",
+      "customTexture": "https://cdn2.unrealengine.com/marvel-sectionbg-v4-1921x1081-a0381801b3ec.png",
+      "offerGroupsCount": 9,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_Researcher_BG-09b2f6ec.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Researcher_Characters-7a8a5870.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Researcher_Figures-fabf9bbf.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Researcher_ItemStack-f79577b9.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Researcher_Logo-c944b8e8.png"
+      ],
+      "stackRankStart": "2025-09-23T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FeudalGothamMobile",
+      "displayName": "ゴッサムシティ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Section_EggPlant_BG_02-3c15fca2.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Car-9e2d12cc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_Logo-80e82a17.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_EggPlant_ItemStack-dac6b6da.png"
+      ],
+      "stackRankStart": "2025-09-23T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT0923",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-23T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Weeknd",
+      "displayName": "The Weeknd",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-gallonbag-sectionbg-1920x1080-96639694b01f.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-23T00:00:00.000Z"
+    },
+    {
+      "sectionId": "MHANEW",
+      "displayName": "僕のヒーローアカデミア",
+      "customTexture": "https://cdn2.unrealengine.com/sk-PilgrimS03_SectionBG-c84fc95c.png",
+      "offerGroupsCount": 7,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-23T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VictoryVibes0922",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-23T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DieselCar",
+      "displayName": "Diesel",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-23T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattleReady0923",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0012_OG-Rays-621aca70.png",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-23T00:00:00.000Z"
+    }
+  ]
+}
