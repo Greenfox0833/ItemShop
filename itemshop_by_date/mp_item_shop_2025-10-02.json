@@ -1,0 +1,43 @@
+{
+  "date": "2025-10-02",
+  "generatedAt": "2025-10-02T07:17:12.934318+09:00",
+  "count": 4,
+  "sections": [
+    {
+      "sectionId": "XForce",
+      "displayName": "マーベル",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-claw-section-1920x1080-4c3c18b4e52f.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-02T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattleReady1002",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-bikemold-section-1920x1080-da804c43e54f.jpg",
+      "offerGroupsCount": 11,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-02T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Batmobile1",
+      "displayName": "Batmobile",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Section_EggPlant_BG_02-3c15fca2.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-02T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Jamtracks1002",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-02T00:00:00.000Z"
+    }
+  ]
+}

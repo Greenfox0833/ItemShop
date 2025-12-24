@@ -1,0 +1,80 @@
+{
+  "date": "2025-12-25",
+  "generatedAt": "2025-12-25T08:31:35.969928+09:00",
+  "count": 7,
+  "sections": [
+    {
+      "sectionId": "ishowspeed1",
+      "displayName": "iShowSpeed",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_HonorBrace_BG-e723263f.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_HonorBrace_Character-0db74edc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_HonorBrace_Logo-bed9f6a1.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_HonorBrace_ItemStack-ebd1947b.png"
+      ],
+      "stackRankStart": "2025-12-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Winterfest1225",
+      "displayName": "ウィンターフェスト",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 13,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_FloraBrisk_BG-e34796ea.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FloraBrisk_Character-fc034cfb.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FloraBrisk_Logo-35eb05b5.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FloraBrisk_Figure-7817a7e5.png"
+      ],
+      "stackRankStart": "2025-12-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "B2F",
+      "displayName": "バック・トゥ・ザ・フューチャー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1225",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ArcaneJinx2",
+      "displayName": "ゲーミングレジェンズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1225",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT125",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-25T00:00:00.000Z"
+    }
+  ]
+}

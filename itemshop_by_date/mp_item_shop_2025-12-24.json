@@ -1,0 +1,228 @@
+{
+  "date": "2025-12-24",
+  "generatedAt": "2025-12-25T08:31:35.969928+09:00",
+  "count": 23,
+  "sections": [
+    {
+      "sectionId": "BestSellers",
+      "displayName": "本日のベストセラー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VehicleHoliday",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Spongebob",
+      "displayName": "スポンジ・ボブ スクエアパンツ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1224",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "PlayboiCartiIcons",
+      "displayName": "Playboi Carti",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_SummitReed_BG-df2c24c0.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_SummitReed_Character-eab5df85.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Refrigerator_ItemStack-3e570496.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_SummitReed_Logo-7de35586.png"
+      ],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SnowMiku",
+      "displayName": "初音ミク",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "NoSweat0419",
+      "displayName": "ノースウェット",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SilverThistle",
+      "displayName": "ホグワーツの祝福",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Bleach2",
+      "displayName": "BLEACH",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1224",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Ten_SectionBG-48c33842.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT122",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BB",
+      "displayName": "バトルバス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VictoryVibes1222",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Ferrari296Car",
+      "displayName": "Ferrari 296 GTB",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BlackPinkLisa",
+      "displayName": "LISA",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LimitedTime",
+      "displayName": "特別オファー&バンドル",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 7,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "B2F1",
+      "displayName": "バック・トゥ・ザ・フューチャー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_GreyCar_SectionBG-b7fa4853.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_OatmealSpread_BG-(1)-7bebe659.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_GreyCar_ItemStack-bbb4636b.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_GreyCar_Logo-820b73ed.png"
+      ],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "CourageJD",
+      "displayName": "CouRage",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_BoldDormRise-f17c1811.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Winterfest1224",
+      "displayName": "ウィンターフェスト",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-winterfest-sectionbg-1920x1080-34f15a817168.jpg",
+      "offerGroupsCount": 14,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_FloraBrisk_BG-e34796ea.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FloraBrisk_Character-fc034cfb.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FloraBrisk_Logo-35eb05b5.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FloraBrisk_Figure-7817a7e5.png"
+      ],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SuperOG",
+      "displayName": "ORIGINシーズンショップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BatmanBeyond2",
+      "displayName": "バットマン ザ・フューチャー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "QuicheLorraine",
+      "displayName": "Kim Kardashian",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattlePassCrew",
+      "displayName": "フォートナイトクルー&パス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-24T00:00:00.000Z"
+    }
+  ]
+}

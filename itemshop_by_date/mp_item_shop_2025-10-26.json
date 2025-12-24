@@ -1,0 +1,72 @@
+{
+  "date": "2025-10-26",
+  "generatedAt": "2025-10-26T08:11:31.680303+09:00",
+  "count": 6,
+  "sections": [
+    {
+      "sectionId": "FND1026",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-30-30-tollbridge-sectionbg-v1-1920x1080-83f9d61042cb.jpg",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-26T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Terminator",
+      "displayName": "ターミネーター",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-30-30-goldenguardantler-sectionbg-v1-1920x1080-52757b88bdbe.jpg",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-26T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Wednesday",
+      "displayName": "ウェンズデー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_PolkaSkate_BG-85ce997c.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PolkaSkate_Character-e5e011a9.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_TangyRadish_Logo-98f6c2ac.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PolkaSkate_Figure-2e15ce61.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PolkaSkate_ItemStack-fddfe07e.png"
+      ],
+      "stackRankStart": "2025-10-26T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FNM1026",
+      "displayName": "フォートナイトメア",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 20,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_ServeStreet_BG-c57edbcc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_ServeStreet_Character-d0d14a29.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_TangyRadish_Logo-98f6c2ac.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_ServeStreet_ItemStack-aa1d3b04.png"
+      ],
+      "stackRankStart": "2025-10-26T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1026",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0011_Yellow-Rays-4b163f1e.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-26T00:00:00.000Z"
+    },
+    {
+      "sectionId": "NightmareBeforeChristmasLego",
+      "displayName": "ナイトメアー・ビフォア・クリスマス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-26T00:00:00.000Z"
+    }
+  ]
+}

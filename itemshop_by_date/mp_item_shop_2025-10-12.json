@@ -1,0 +1,72 @@
+{
+  "date": "2025-10-12",
+  "generatedAt": "2025-10-11T06:34:53.064118+09:00",
+  "count": 6,
+  "sections": [
+    {
+      "sectionId": "ShaggyScoob",
+      "displayName": "スクービー・ドゥー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_LycheeNickel_BG_1-830b464d.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_LycheeNickel_Characters-26bfce1c.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_TangyRadish_Logo-98f6c2ac.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_LycheeNickel_Figure_1-872b1c89.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_LycheeNickel_ItemStack_1-63dd6497.png"
+      ],
+      "stackRankStart": "2025-10-12T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FNM1012",
+      "displayName": "フォートナイトメア",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_PureCereal_BG-11122ffd.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PureCereal_Character-7ab95b34.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_TangyRadish_Logo-98f6c2ac.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PureCereal_ItemStack-19d36eb3.png"
+      ],
+      "stackRankStart": "2025-10-12T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FD1012",
+      "displayName": "Fortnite Drops (!)",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Opposum_SectionBG-fe4ec522.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-12T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Ultimate",
+      "displayName": "アルティメットレコニング",
+      "customTexture": null,
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-12T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FluxJax",
+      "displayName": "シューズをゲットしよう",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Deep-Blue-d4a4cea8.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-12T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1012",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-livelydomino-section-1920x1080-b8cb2b1fabc4.jpg",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-12T00:00:00.000Z"
+    }
+  ]
+}

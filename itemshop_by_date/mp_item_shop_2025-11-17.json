@@ -1,0 +1,197 @@
+{
+  "date": "2025-11-17",
+  "generatedAt": "2025-11-18T08:18:54.071999+09:00",
+  "count": 20,
+  "sections": [
+    {
+      "sectionId": "TombRaider",
+      "displayName": "ララ・クロフト",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_GnocchiTea_SectionBG-1ec3f071.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "MortalKombatLambo",
+      "displayName": "クラシック・コンバット",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_SoapPocket_SectionBG-07c572d0.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LimitedTime",
+      "displayName": "特別オファー&バンドル",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 7,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SideKicks1115",
+      "displayName": "バディ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_FinFlake_SectionBG-6f8b51fb.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1117",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
+      "offerGroupsCount": 7,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "PlatinumSeries",
+      "displayName": "プラチナアイコン",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-tofuresort-bg-1920x1080-91ab6d5624f3.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ZippyBundle",
+      "displayName": "Zippy",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "HJDooganLocker",
+      "displayName": "HJDooganのロッカー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Season37_SectionBG-dc900aa1.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Jamtracks1117",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "TylerCreator",
+      "displayName": "Tyler, The Creator",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_CanineCronut_SectionBG-06f91352.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_CanineCronut_BG-a3f9c1f1.png",
+        "https://cdn2.unrealengine.com/sk-sk-Billboard_CanineCronut_Characters-a5e5e014-9777ee70.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_CanineCronut_ItemStack-b96c7a80.png"
+      ],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SimpsonsBartLisaMoe",
+      "displayName": "ザ・シンプソンズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_DuckCoast_BG-bd744161.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_DuckCoast_Character-459b5f79.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Ch6MS2_Logo-b0887a60.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_DuckCoast_Figure-0c43753a.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_DuckCoast_ItemStack-293f3a7c.png"
+      ],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FoodTheme",
+      "displayName": "The Leftovers (!)",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0011_Yellow-Rays-4b163f1e.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VictoryVibes1117NEW",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "MercedesAMG",
+      "displayName": "Mercedes-AMG GT 63",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JayvynIncantor",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "NoSweat1111",
+      "displayName": "ノースウェット",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_IgniteEgg_SectionBG-4020b333.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ChevroletCorvette",
+      "displayName": "Chevrolet Corvette",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattlePassCrew",
+      "displayName": "フォートナイトクルー&パス",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BestSellers",
+      "displayName": "本日のベストセラー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-BestSellers_BG-d8b15f25.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Delulu1115",
+      "displayName": "Delulu",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Delulu_SectionBG-11d41c56.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-17T00:00:00.000Z"
+    }
+  ]
+}

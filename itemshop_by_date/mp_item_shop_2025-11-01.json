@@ -1,0 +1,196 @@
+{
+  "date": "2025-11-01",
+  "generatedAt": "2025-11-02T21:07:37.417765+09:00",
+  "count": 21,
+  "sections": [
+    {
+      "sectionId": "Alien",
+      "displayName": "ゼノモーフ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VV1031",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FNM1101",
+      "displayName": "フォートナイトメア",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 10,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Wednesday",
+      "displayName": "ウェンズデー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Billy",
+      "displayName": "ビリー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DayoftheDead1",
+      "displayName": "ディア・デ・ロス・ムエルトス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT01031",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ScoobyAll",
+      "displayName": "スクービー・ドゥー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BloodsportOnly",
+      "displayName": "DC",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Endo",
+      "displayName": "Endo",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Cristiano",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattlePassCrew",
+      "displayName": "フォートナイトクルー&パス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "MariahCarey",
+      "displayName": "Mariah Carey",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "NS1028",
+      "displayName": "ノースウェット",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1101",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1101",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DodgeChargerSRTHellcat",
+      "displayName": "Fast & Furious",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LimitedTime",
+      "displayName": "特別オファー&バンドル",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 7,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DojaCatIcons",
+      "displayName": "Doja Cat",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BestSellers",
+      "displayName": "本日のベストセラー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "sectionId": "KPop",
+      "displayName": "KPOPガールズ! デーモン・ハンターズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-01T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2025-09-28",
+  "generatedAt": "2025-09-27T07:33:26.113406+09:00",
+  "count": 8,
+  "sections": [
+    {
+      "sectionId": "MrSavage",
+      "displayName": "MrSavage",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_PineTrim-3a52e1cc.png",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_PineTrim_BG-45c84247.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PineTrim_Character-498254d2.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PineTrim_Logo-80a468fc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PineTrim_Figure-d23e142a.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PineTrim_ItemStack-46dccf4b.png"
+      ],
+      "stackRankStart": "2025-09-28T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Jamtracks0928",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-28T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattleReady0928",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
+      "offerGroupsCount": 7,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-28T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Rejekun",
+      "displayName": "れじぇくんのロッカー",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-future-shopbg-1920x1080-ffdfce9be575.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-28T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Vans2x",
+      "displayName": "シューズをゲットしよう",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Pink-6724f799.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-28T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DeadWolvXmenGambitRogue",
+      "displayName": "マーベル",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-30-30-hatchback-sectionbg-v4-1920x1080-361105c10e17.jpg",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-28T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Masamune",
+      "displayName": "Masamune",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-28T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ZeroBatLaughHarley",
+      "displayName": "DC",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_GuineaPig_Section_BG-d2db840c.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-28T00:00:00.000Z"
+    }
+  ]
+}

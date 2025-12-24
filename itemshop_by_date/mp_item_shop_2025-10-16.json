@@ -1,0 +1,175 @@
+{
+  "date": "2025-10-16",
+  "generatedAt": "2025-10-18T07:19:36.379963+09:00",
+  "count": 18,
+  "sections": [
+    {
+      "sectionId": "TRONArea",
+      "displayName": "トロン：アレス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_YuzuCrank_SectionBG-e872003e.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FluxJax",
+      "displayName": "シューズをゲットしよう",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Deep-Blue-d4a4cea8.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1016",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-livelydomino-section-1920x1080-b8cb2b1fabc4.jpg",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BehemothSUV",
+      "displayName": "Behemoth",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "KPop",
+      "displayName": "KPOPガールズ! デーモン・ハンターズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Refrigerator_SectionBG-49e6d45d.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ThreadMagic",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ShaggyMystery",
+      "displayName": "スクービー・ドゥー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 15,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_LycheeNickel_BG_1-830b464d.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_LycheeNickel_Characters-26bfce1c.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_TangyRadish_Logo-98f6c2ac.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_LycheeNickel_Figure_1-872b1c89.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_LycheeNickel_ItemStack_1-63dd6497.png"
+      ],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BestSellers",
+      "displayName": "本日のベストセラー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-BestSellers_BG-d8b15f25.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VV1013",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DojaCat",
+      "displayName": "Doja Cat",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 15,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattlePassCrew",
+      "displayName": "フォートナイトクルー&パス",
+      "customTexture": "https://cdn2.unrealengine.com/default-nexus-sectionbg-v2-1920x1080-0291bfbbfbf7.png",
+      "offerGroupsCount": 18,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT1016",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "AnarchyFarm",
+      "displayName": "レゴ®セットで建築",
+      "customTexture": "https://cdn2.unrealengine.com/juno-briteliving-sectionbg-v1-1920x1080-75d1148366f2.jpg",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "NS1014",
+      "displayName": "ノースウェット",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-brightdisk-sectionbg-2-1920x1080-80926d882af8.jpg",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "PumpkinKing&SallyBundle",
+      "displayName": "ナイトメアー・ビフォア・クリスマス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LimitedTime",
+      "displayName": "特別オファー&バンドル",
+      "customTexture": null,
+      "offerGroupsCount": 21,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FNM1016",
+      "displayName": "フォートナイトメア",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 9,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1016",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_RageDebris_Section_bg-e241c6ca.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-16T00:00:00.000Z"
+    }
+  ]
+}

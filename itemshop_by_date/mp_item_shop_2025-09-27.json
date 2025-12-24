@@ -1,0 +1,67 @@
+{
+  "date": "2025-09-27",
+  "generatedAt": "2025-09-27T07:33:26.113406+09:00",
+  "count": 6,
+  "sections": [
+    {
+      "sectionId": "Jamtracks0927",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-27T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SlitheryHotSpriteful",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-27T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Vans2xNEW",
+      "displayName": "シューズをゲットしよう",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Pink-6724f799.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-27T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattleReady0927",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
+      "offerGroupsCount": 7,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-27T00:00:00.000Z"
+    },
+    {
+      "sectionId": "MrSavage-NEW",
+      "displayName": "MrSavage",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_PineTrim-3a52e1cc.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_PineTrim_BG-45c84247.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PineTrim_Character-498254d2.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PineTrim_Logo-80a468fc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PineTrim_Figure-d23e142a.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PineTrim_ItemStack-46dccf4b.png"
+      ],
+      "stackRankStart": "2025-09-27T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Deadpool&Wolverine1",
+      "displayName": "マーベル",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-30-30-hatchback-sectionbg-v4-1920x1080-361105c10e17.jpg",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-27T00:00:00.000Z"
+    }
+  ]
+}

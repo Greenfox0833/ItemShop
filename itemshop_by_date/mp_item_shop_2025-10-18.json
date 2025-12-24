@@ -1,0 +1,75 @@
+{
+  "date": "2025-10-18",
+  "generatedAt": "2025-10-18T08:07:52.937199+09:00",
+  "count": 7,
+  "sections": [
+    {
+      "sectionId": "FNM1018",
+      "displayName": "フォートナイトメア",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 17,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_GnatGala_BG-1-497a4fbb.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_GnatGala_BG-7a3bfb72.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_TangyRadish_Logo-98f6c2ac.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_GnatGala_ItemStack-b315180c.png"
+      ],
+      "stackRankStart": "2025-10-18T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1018",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-brightdisk-sectionbg-2-1920x1080-80926d882af8.jpg",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-18T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SilkCube1",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-18T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VV1017",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-18T00:00:00.000Z"
+    },
+    {
+      "sectionId": "McLaren",
+      "displayName": "McLaren 765LT",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-18T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT1018",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-18T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1018",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-future-shopbg-1920x1080-ffdfce9be575.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-18T00:00:00.000Z"
+    }
+  ]
+}

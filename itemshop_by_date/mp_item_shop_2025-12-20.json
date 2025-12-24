@@ -1,0 +1,82 @@
+{
+  "date": "2025-12-20",
+  "generatedAt": "2025-12-19T09:07:14.627933+09:00",
+  "count": 7,
+  "sections": [
+    {
+      "sectionId": "BR1220",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Winterfest1220",
+      "displayName": "ウィンターフェスト",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_SectionBG-bae1228d.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Spongebob1",
+      "displayName": "スポンジ・ボブ スクエアパンツ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_WittyStork_SectionBG-c2e540ba.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SuperOG",
+      "displayName": "ORIGINシーズンショップ",
+      "customTexture": "https://cdn2.unrealengine.com/sectionbg-og-gray-1921x1081-d1515b27166e.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SnowMiku1BILBOARDON",
+      "displayName": "初音ミク",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_SectionBG-bae1228d.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_FlossYawn_BG-bcbf65e1.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FlossYawn_Character-84551909.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FloraBrisk_Logo-35eb05b5.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FlossYawn_Figure-0cff6a13.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FlossYawn_ItemStck-74a4c6aa.png"
+      ],
+      "stackRankStart": "2025-12-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SilverThistleBILBOARDON",
+      "displayName": "ホグワーツの祝福",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_SectionBG-bae1228d.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_DroveRay_BG-c072bcd4.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_DroveRay_Character-0665fa69.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_DroveRay_Logo-a7d2f0bc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_DroveRay_Figure-8b358dc2.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_DroveRay_ItemStack-da4bb7ba.png"
+      ],
+      "stackRankStart": "2025-12-20T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VehicleHoliday",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-20T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2025-11-21",
+  "generatedAt": "2025-11-22T08:24:52.720323+09:00",
+  "count": 21,
+  "sections": [
+    {
+      "sectionId": "SimpsonsBartLisaMoeTHEME",
+      "displayName": "ザ・シンプソンズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week3-482a8775.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SideKicks1115",
+      "displayName": "バディ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_FinFlake_SectionBG-6f8b51fb.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FerrariF40New",
+      "displayName": "Ferrari F40",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SkyMango",
+      "displayName": "ゼロ・アワー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Titans_SectionBG-7d53a147.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VictoryVibes1121New",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1121",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0012_OG-Rays-621aca70.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Cybertruck",
+      "displayName": "Tesla Cybertruck",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "TylerCreator",
+      "displayName": "Tyler, The Creator",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_CanineCronut_SectionBG-06f91352.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "PsychoBandit",
+      "displayName": "メイヘム",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-brightdisk-sectionbg-1920x1080-dde47768eb2d.jpg",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "MercedesAMG",
+      "displayName": "Mercedes-AMG GT 63",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattlePassCrew",
+      "displayName": "フォートナイトクルー&パス",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LimitedTime",
+      "displayName": "特別オファー&バンドル",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 7,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ZeroPoint",
+      "displayName": "ニュークリア・フュージョン",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0008_Gray-Rays-1d00dd56.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "RickandMorty",
+      "displayName": "リック・アンド・モーティ",
+      "customTexture": "https://cdn2.unrealengine.com/background-1920x1080-60efded2cee0.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Vegetta777",
+      "displayName": "Vegetta777のロッカーバンドル",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0000_Pyschadelic-Rays-1dcd8a80.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "WerewolfCar",
+      "displayName": "狼男",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "F1RacersBundleNew",
+      "displayName": "F1 レーサーズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_F1-db10d315.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DRG",
+      "displayName": "Deep Rock Galactic",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0012_OG-Rays-621aca70.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Jamtracks1119",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JayvynIncantor",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BestSellers",
+      "displayName": "本日のベストセラー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-BestSellers_BG-d8b15f25.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-21T00:00:00.000Z"
+    }
+  ]
+}

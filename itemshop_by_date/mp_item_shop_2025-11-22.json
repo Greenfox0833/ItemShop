@@ -1,0 +1,121 @@
+{
+  "date": "2025-11-22",
+  "generatedAt": "2025-11-22T08:24:52.720323+09:00",
+  "count": 12,
+  "sections": [
+    {
+      "sectionId": "MarvelMcLarenSenna",
+      "displayName": "Marvel McLaren Senna",
+      "customTexture": "https://cdn2.unrealengine.com/31-40-billboard-bullet-sectionbg-v1-1920x1080-f0864998ca66.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "HNYEtheralLightning",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Sidekicks1122New",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0002_Dream-Clouds-ba9eded2.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SkyMango1122",
+      "displayName": "ゼロ・アワー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Titans_SectionBG-7d53a147.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FamilyGuy",
+      "displayName": "ファミリー・ガイ",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-bikemold-section-1920x1080-da804c43e54f.jpg",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1122",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0012_OG-Rays-621aca70.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "StrangerThingsNew",
+      "displayName": "ストレンジャー・シングス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Vegetable_SectionBG-0426b41e.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_Vegetable_BG-716544e3.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Vegetable_Character-cc2e948d.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Vegetable_Logo_2.5-e703f1c9.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Vegetable_Figure-451c3f78.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Vegetable_ItemStack-b49713e5.png"
+      ],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Jamtracks1122",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FerrariF40",
+      "displayName": "Ferrari F40",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "F1RacersBundle",
+      "displayName": "F1 レーサーズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_F1-db10d315.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VictoryVibes1121",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    },
+    {
+      "sectionId": "AnimationDads",
+      "displayName": "アニメのお父さんたち",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Kismet_SectionBG-393af481.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-22T00:00:00.000Z"
+    }
+  ]
+}

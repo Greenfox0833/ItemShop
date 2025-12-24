@@ -1,0 +1,191 @@
+{
+  "date": "2025-09-30",
+  "generatedAt": "2025-10-01T07:00:18.217040+09:00",
+  "count": 20,
+  "sections": [
+    {
+      "sectionId": "InkvilleGangT",
+      "displayName": "インクヴィルギャング",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-brightdisk-sectionbg-2-1920x1080-80926d882af8.jpg",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BirdsofAFeather",
+      "displayName": "バーズ・オブ・ア・フェザー",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-bikemold-section-1920x1080-da804c43e54f.jpg",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Jamtracks0930",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BatmobileOnly",
+      "displayName": "Batmobile",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Section_EggPlant_BG_02-3c15fca2.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VictoryVibes0929",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DeadWolvXmenGambitCuddle",
+      "displayName": "マーベル",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-30-30-hatchback-sectionbg-v4-1920x1080-361105c10e17.jpg",
+      "offerGroupsCount": 12,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "NoSweat0930",
+      "displayName": "ノースウェット",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-brightdisk-sectionbg-1920x1080-dde47768eb2d.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Gorillaz",
+      "displayName": "Gorillaz",
+      "customTexture": "https://cdn2.unrealengine.com/sk-PajamaSoar---Section-BG-1097c1d5.png",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BestSellers",
+      "displayName": "本日のベストセラー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-BestSellers_BG-d8b15f25.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "MrSavage",
+      "displayName": "MrSavage",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_PineTrim-3a52e1cc.png",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LimitedTime",
+      "displayName": "特別オファー&バンドル",
+      "customTexture": null,
+      "offerGroupsCount": 14,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Vans2x",
+      "displayName": "シューズをゲットしよう",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Kicks---Pink-6724f799.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Rejekun",
+      "displayName": "れじぇくんのロッカー",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-future-shopbg-1920x1080-ffdfce9be575.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LordZedd",
+      "displayName": "パワーレンジャー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_PowerRangers-1533c580.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattlePassCrew",
+      "displayName": "フォートナイトクルー&パス",
+      "customTexture": "https://cdn2.unrealengine.com/default-nexus-sectionbg-v2-1920x1080-0291bfbbfbf7.png",
+      "offerGroupsCount": 12,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DPJuno",
+      "displayName": "ダフト・パンク",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_StrideMice-bd2b7323.png",
+      "offerGroupsCount": 10,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Porsche918Spyder",
+      "displayName": "Porsche 918 Spyder",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Bawu_SectionBG-4811098e.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_Bawu_Car-4f60e0c0.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Bawu_Logo-0cdc6328.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Bawu_ItemStack-2346d5e4.png"
+      ],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattleReady0930",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SlitheryHotSpriteful",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Masamune",
+      "displayName": "Masamune",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-09-30T00:00:00.000Z"
+    }
+  ]
+}

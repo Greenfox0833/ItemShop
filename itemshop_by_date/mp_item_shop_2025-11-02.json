@@ -1,0 +1,49 @@
+{
+  "date": "2025-11-02",
+  "generatedAt": "2025-11-02T21:07:37.417765+09:00",
+  "count": 4,
+  "sections": [
+    {
+      "sectionId": "Dayofthedead2NEW",
+      "displayName": "ディア・デ・ロス・ムエルトス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-02T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SimpsonsBartNEW",
+      "displayName": "ザ・シンプソンズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_Ch6MS2_Week1_BG-39e8ebe1.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Ch6MS2_Week1_Character-3006f13c.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Ch6MS2_Logo-b0887a60.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Ch6MS2_Week1_Figure-360fb475.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Ch6MS2_Week1_ItemStack_1-f4ef967c.png"
+      ],
+      "stackRankStart": "2025-11-02T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1102",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-02T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1102",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-02T00:00:00.000Z"
+    }
+  ]
+}

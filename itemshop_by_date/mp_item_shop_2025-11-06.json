@@ -1,0 +1,175 @@
+{
+  "date": "2025-11-06",
+  "generatedAt": "2025-11-07T07:15:41.423206+09:00",
+  "count": 18,
+  "sections": [
+    {
+      "sectionId": "BestSellers",
+      "displayName": "本日のベストセラー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-BestSellers_BG-d8b15f25.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Adidas2Shoes",
+      "displayName": "Adidas",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_WorldCup-63aaad72.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Cristiano",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "AutumnShop1106",
+      "displayName": "オータムショップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-CrispAutumn_SectionBG-6ad07e55.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "InkvilleGangT",
+      "displayName": "インクヴィルギャング",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-brightdisk-sectionbg-2-1920x1080-80926d882af8.jpg",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Alien",
+      "displayName": "ゼノモーフ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0008_Gray-Rays-1d00dd56.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DodgeChargerSRTHellcat",
+      "displayName": "Fast & Furious",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SkibidiToilet",
+      "displayName": "Skibidi Toilet",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-pagetruffle-sectionbg-1920x1080-938b5d1394e0.jpg",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "CyborgBeastStarfire",
+      "displayName": "ティーン・タイタンズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_FloralCardinal_StoreBG-4fedc21a.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Jamtracks1103",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Centio",
+      "displayName": "Centio",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1106",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0002_Dream-Clouds-ba9eded2.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Metallica",
+      "displayName": "Metallica",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Stainless_BillboardBG-7ddc7518.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VictoryVibes1103",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1106",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SimpsonsBart",
+      "displayName": "ザ・シンプソンズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Ch6MS2_Week1_Character-3006f13c.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Ch6MS2_Logo-b0887a60.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Ch6MS2_Week1_Figure-360fb475.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Ch6MS2_Week1_ItemStack_1-f4ef967c.png"
+      ],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattlePassCrew",
+      "displayName": "フォートナイトクルー&パス",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LimitedTime",
+      "displayName": "特別オファー&バンドル",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 7,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-11-06T00:00:00.000Z"
+    }
+  ]
+}

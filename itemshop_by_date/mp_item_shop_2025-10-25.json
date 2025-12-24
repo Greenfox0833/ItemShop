@@ -1,0 +1,85 @@
+{
+  "date": "2025-10-25",
+  "generatedAt": "2025-10-26T08:11:31.680303+09:00",
+  "count": 8,
+  "sections": [
+    {
+      "sectionId": "BR1025",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-30-10-catburglarsummer-sectionbg-v1-1920x1080-0132e9d734b7.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FNM1025",
+      "displayName": "フォートナイトメア",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 16,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "TurbineBeam",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VV1024",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1025",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Egg_SectionBG-4ad388df.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Porsche",
+      "displayName": "Porsche 911 GT3",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT01024",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-25T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Wednesdaynew",
+      "displayName": "ウェンズデー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_PolkaSkate_BG-85ce997c.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PolkaSkate_Character-e5e011a9.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_TangyRadish_Logo-98f6c2ac.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PolkaSkate_Figure-2e15ce61.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_PolkaSkate_ItemStack-fddfe07e.png"
+      ],
+      "stackRankStart": "2025-10-25T00:00:00.000Z"
+    }
+  ]
+}

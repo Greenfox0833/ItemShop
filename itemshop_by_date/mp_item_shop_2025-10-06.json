@@ -1,0 +1,70 @@
+{
+  "date": "2025-10-06",
+  "generatedAt": "2025-10-06T08:19:02.145884+09:00",
+  "count": 7,
+  "sections": [
+    {
+      "sectionId": "Academy",
+      "displayName": "アカデミーチャンピオンズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Back2School-59c2b895.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FNM1006",
+      "displayName": "不気味なオファー",
+      "customTexture": "https://cdn2.unrealengine.com/raredelightsail-sectionbg-v1-1921x1080-dbee1f6e8e8b.png",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VV1006",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT1006",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Crypt",
+      "displayName": "クリプトクラッシャー",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-brightdisk-sectionbg-3-1920x1080-f87281b54f21.jpg",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1006",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-brightdisk-sectionbg-3-1920x1080-f87281b54f21.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-06T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1006",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-ironman-section-1920x1080-90d84fa0b125.jpg",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-06T00:00:00.000Z"
+    }
+  ]
+}

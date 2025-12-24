@@ -1,0 +1,61 @@
+{
+  "date": "2025-10-31",
+  "generatedAt": "2025-10-31T14:20:59.334196+09:00",
+  "count": 6,
+  "sections": [
+    {
+      "sectionId": "VV10311",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-31T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FNM1031",
+      "displayName": "フォートナイトメア",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_FNMares-a18b9150.png",
+      "offerGroupsCount": 15,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-31T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1031",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/raredelightsail-sectionbg-v1-1921x1080-dbee1f6e8e8b.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-31T00:00:00.000Z"
+    },
+    {
+      "sectionId": "AlienEarth",
+      "displayName": "ゼノモーフ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0008_Gray-Rays-1d00dd56.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-31T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT01031",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-31T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1031",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/background-1920x1080-60efded2cee0.jpg",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-31T00:00:00.000Z"
+    }
+  ]
+}

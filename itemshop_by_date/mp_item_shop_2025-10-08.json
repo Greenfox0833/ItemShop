@@ -1,0 +1,70 @@
+{
+  "date": "2025-10-08",
+  "generatedAt": "2025-10-09T07:27:34.034468+09:00",
+  "count": 7,
+  "sections": [
+    {
+      "sectionId": "FNM1008",
+      "displayName": "不気味なオファー",
+      "customTexture": "https://cdn2.unrealengine.com/raredelightsail-sectionbg-v1-1921x1080-dbee1f6e8e8b.png",
+      "offerGroupsCount": 10,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-08T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT1008",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-08T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Tron2",
+      "displayName": "トロン：アレス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_YuzuCrank_SectionBG-e872003e.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-08T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1008",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0005_Pinkish-Clouds-56f8396e.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-08T00:00:00.000Z"
+    },
+    {
+      "sectionId": "GhostRiderOnly",
+      "displayName": "マーベル",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-30-30-tollbridge-sectionbg-v1-1920x1080-83f9d61042cb.jpg",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-08T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1008",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0007_Purple-Clouds-62b4ba90.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-08T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Sleepover1",
+      "displayName": "おやすみ、良い夢を",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0001_Stormy-Clouds-21e4cca9.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-10-08T00:00:00.000Z"
+    }
+  ]
+}

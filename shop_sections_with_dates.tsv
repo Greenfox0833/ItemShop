@@ -1,32 +1,31 @@
 sectionId	displayName	landingPriority	sortPriority	devName	customTexture	offerGroupsCount	textureMetadata	stackRankStart
-FeudalGothamMobile	ゴッサムシティ	https://cdn2.unrealengine.com/sk-Section_EggPlant_BG_02-3c15fca2.png	3	True	2025-09-24T00:00:00.000Z
-Weeknd	The Weeknd	https://cdn2.unrealengine.com/billboard-gallonbag-sectionbg-1920x1080-96639694b01f.png	4	False	2025-09-24T00:00:00.000Z
-LimitedTime	特別オファー&バンドル	None	14	False	2025-09-24T00:00:00.000Z
-BlackWidowThunderWidowD	マーベル	https://cdn2.unrealengine.com/marvel-sectionbg-v4-1921x1081-a0381801b3ec.png	9	True	2025-09-25T00:00:00.000Z
-Invincible1	インビンシブル	https://cdn2.unrealengine.com/sk-Billboard_Opposum_BG-6001869f.png	14	False	2025-09-24T00:00:00.000Z
-BattleReady0925	戦闘準備完了	https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png	6	False	2025-09-25T00:00:00.000Z
-LordZedd	パワーレンジャー	https://cdn2.unrealengine.com/sk-SectionBG_PowerRangers-1533c580.png	1	False	2025-09-25T00:00:00.000Z
-BlackWidowThunderWidow	マーベル	https://cdn2.unrealengine.com/marvel-sectionbg-v4-1921x1081-a0381801b3ec.png	9	True	2025-09-24T00:00:00.000Z
-BattlePassCrew	フォートナイトクルー&パス	https://cdn2.unrealengine.com/default-nexus-sectionbg-v2-1920x1080-0291bfbbfbf7.png	12	False	2025-09-24T00:00:00.000Z
-MHANEW	僕のヒーローアカデミア	https://cdn2.unrealengine.com/sk-PilgrimS03_SectionBG-c84fc95c.png	14	False	2025-09-24T00:00:00.000Z
-VictoryVibes0922	ビクトリー・バイブス	https://cdn2.unrealengine.com/solartheory-sectionbg-v2-1921x1081-2e7759add34c.png	4	False	2025-09-24T00:00:00.000Z
-BattleReady0924	戦闘準備完了	https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png	7	False	2025-09-24T00:00:00.000Z
-JT0924	ジャムトラック	https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg	4	False	2025-09-24T00:00:00.000Z
-Gorillaz	Gorillaz	https://cdn2.unrealengine.com/sk-PajamaSoar---Section-BG-1097c1d5.png	8	False	2025-09-24T00:00:00.000Z
-DieselCar	Diesel	https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png	2	False	2025-09-24T00:00:00.000Z
-BatmobileOnly	Batmobile	https://cdn2.unrealengine.com/sk-Section_EggPlant_BG_02-3c15fca2.png	1	True	2025-09-25T00:00:00.000Z
-ShocknAwesome	Shock 'N Awesome	https://cdn2.unrealengine.com/sk-Default_BG_0008_Gray-Rays-1d00dd56.png	6	False	2025-09-24T00:00:00.000Z
-RangersZed	パワーレンジャー	https://cdn2.unrealengine.com/sk-SectionBG_PowerRangers-1533c580.png	8	False	2025-09-24T00:00:00.000Z
-MegastarCar	Megastar	https://cdn2.unrealengine.com/sk-Billboard_Season3600_SectionBG-d0c062ed.png	2	False	2025-09-24T00:00:00.000Z
-VANESSUH'SLOCKER	Vanessuhのロッカー	https://cdn2.unrealengine.com/sk-Kicks---Red-5973f985.png	2	False	2025-09-25T00:00:00.000Z
-Porsche918Spyder	Porsche 918 Spyder	https://cdn2.unrealengine.com/sk-Billboard_Bawu_SectionBG-4811098e.png	4	True	2025-09-24T00:00:00.000Z
-NikeAirYugioh	シューズをゲットしよう	https://cdn2.unrealengine.com/sk-Kicks---Purple-c0cf057d.png	2	False	2025-09-24T00:00:00.000Z
-CyberInfiltration	サイバーインフィルトレーション	https://cdn2.unrealengine.com/sk-Billboard_CorvidStomp_BG.png	2	False	2025-09-25T00:00:00.000Z
-DeathZero	DC	https://cdn2.unrealengine.com/sk-Billboard_GuineaPig_Section_BG-d2db840c.png	1	False	2025-09-25T00:00:00.000Z
-DeepBlazerDark	乗り物のアクセサリー	https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png	2	False	2025-09-24T00:00:00.000Z
-NANASSLOCKER	Nanassのロッカー	https://cdn2.unrealengine.com/sk-Default_BG_0002_Dream-Clouds-ba9eded2.png	4	False	2025-09-24T00:00:00.000Z
-Boundless	バウンドレス	https://cdn2.unrealengine.com/berrytartriver-section-1920x1080-6462e6d8b241.jpg	3	False	2025-09-25T00:00:00.000Z
-Delulu2	Delulu	https://cdn2.unrealengine.com/sk-Billboard_Delulu_SectionBG-11d41c56.png	3	False	2025-09-24T00:00:00.000Z
-Boarderlands4	マッド・モクシィ	https://cdn2.unrealengine.com/billboard-future-shopbg-1920x1080-ffdfce9be575.png	4	False	2025-09-24T00:00:00.000Z
-JT0925	ジャムトラック	https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg	4	False	2025-09-25T00:00:00.000Z
-BestSellers	本日のベストセラー	https://cdn2.unrealengine.com/sk-BestSellers_BG-d8b15f25.png	2	False	2025-09-24T00:00:00.000Z
+ishowspeed1	iShowSpeed	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	4	True	2025-12-25T00:00:00.000Z
+Winterfest1225	ウィンターフェスト	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	13	True	2025-12-25T00:00:00.000Z
+B2F	バック・トゥ・ザ・フューチャー	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	3	False	2025-12-25T00:00:00.000Z
+BestSellers	本日のベストセラー	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	1	False	2025-12-24T00:00:00.000Z
+VehicleHoliday	乗り物のアクセサリー	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	1	False	2025-12-24T00:00:00.000Z
+FND1225	フォートナイト・ドロップ	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	1	False	2025-12-25T00:00:00.000Z
+Spongebob	スポンジ・ボブ スクエアパンツ	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	5	False	2025-12-24T00:00:00.000Z
+BR1224	戦闘準備完了	https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png	5	False	2025-12-24T00:00:00.000Z
+PlayboiCartiIcons	Playboi Carti	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	4	True	2025-12-24T00:00:00.000Z
+ArcaneJinx2	ゲーミングレジェンズ	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	2	False	2025-12-25T00:00:00.000Z
+SnowMiku	初音ミク	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	3	False	2025-12-24T00:00:00.000Z
+NoSweat0419	ノースウェット	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	3	False	2025-12-24T00:00:00.000Z
+BR1225	戦闘準備完了	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	6	False	2025-12-25T00:00:00.000Z
+SilverThistle	ホグワーツの祝福	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	5	False	2025-12-24T00:00:00.000Z
+Bleach2	BLEACH	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	6	False	2025-12-24T00:00:00.000Z
+FND1224	フォートナイト・ドロップ	https://cdn2.unrealengine.com/sk-Billboard_Ten_SectionBG-48c33842.png	1	False	2025-12-24T00:00:00.000Z
+JT122	ジャムトラック	https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg	4	False	2025-12-24T00:00:00.000Z
+BB	バトルバス	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	1	False	2025-12-24T00:00:00.000Z
+VictoryVibes1222	ビクトリー・バイブス	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	2	False	2025-12-24T00:00:00.000Z
+Ferrari296Car	Ferrari 296 GTB	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	1	False	2025-12-24T00:00:00.000Z
+BlackPinkLisa	LISA	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	2	False	2025-12-24T00:00:00.000Z
+LimitedTime	特別オファー&バンドル	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	7	False	2025-12-24T00:00:00.000Z
+B2F1	バック・トゥ・ザ・フューチャー	https://cdn2.unrealengine.com/sk-Billboard_GreyCar_SectionBG-b7fa4853.png	3	True	2025-12-24T00:00:00.000Z
+CourageJD	CouRage	https://cdn2.unrealengine.com/sk-SectionBG_BoldDormRise-f17c1811.png	3	False	2025-12-24T00:00:00.000Z
+Winterfest1224	ウィンターフェスト	https://cdn2.unrealengine.com/billboard-winterfest-sectionbg-1920x1080-34f15a817168.jpg	14	True	2025-12-24T00:00:00.000Z
+SuperOG	ORIGINシーズンショップ	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	1	False	2025-12-24T00:00:00.000Z
+BatmanBeyond2	バットマン ザ・フューチャー	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	4	False	2025-12-24T00:00:00.000Z
+QuicheLorraine	Kim Kardashian	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	4	False	2025-12-24T00:00:00.000Z
+BattlePassCrew	フォートナイトクルー&パス	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	6	False	2025-12-24T00:00:00.000Z
+JT125	ジャムトラック	https://cdn2.unrealengine.com/sk-SectionBG_25HolidayTakeover-d06cbcb7.png	4	False	2025-12-25T00:00:00.000Z
