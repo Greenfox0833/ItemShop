@@ -1,0 +1,120 @@
+{
+  "date": "2025-12-29",
+  "generatedAt": "2025-12-29T09:54:29.855935+09:00",
+  "count": 12,
+  "sections": [
+    {
+      "sectionId": "JohnWick",
+      "displayName": "ジョン・ウィック",
+      "customTexture": "https://cdn2.unrealengine.com/assassinsuit-sectionbg-v1-1920x1080-29ce37b89444.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND122992147",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Ten_SectionBG-48c33842.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VictoryVibes1229",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_VictoryVibes_SectionBG-edae1985.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SquidGames",
+      "displayName": "イカゲーム",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_TimberStake_SectionBG-bc9d2419.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LordGamoraWolverine",
+      "displayName": "ガーディアンズ・オブ・ギャラクシー",
+      "customTexture": "https://cdn2.unrealengine.com/31-40-billboard-motormonth-sectionbg-v1-1920x1080-9e0f7b2eaabc.jpg",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1229",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "mclaren570s",
+      "displayName": "McLaren 570s",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ishowspeed2",
+      "displayName": "iShowSpeed",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_HonorBrace_SectionBG-6ecdb430.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Winterfest1229",
+      "displayName": "ウィンターフェスト",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_SectionBG-bae1228d.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Bleach",
+      "displayName": "BLEACH",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Bleach_Section_BG-538197a1.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Bleach_Billboard_BG-2d84e439.png",
+        "https://cdn2.unrealengine.com/sk-Bleach_Billboard_BR_Cahracters_1-c1332ae8.png",
+        "https://cdn2.unrealengine.com/sk-Bleach_Billboard_Juno_Cahracters-(1)-733bad8e.png",
+        "https://cdn2.unrealengine.com/sk-Bleach_Billboard_ItemStack-f01f34f5.png"
+      ],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Terminator",
+      "displayName": "ターミネーター",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-30-30-goldenguardantler-sectionbg-v1-1920x1080-52757b88bdbe.jpg",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT1229",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    }
+  ]
+}
