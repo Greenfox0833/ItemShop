@@ -1,0 +1,86 @@
+{
+  "date": "2025-12-30",
+  "generatedAt": "2025-12-30T09:00:38.459269+09:00",
+  "count": 8,
+  "sections": [
+    {
+      "sectionId": "Winterfest1230",
+      "displayName": "ウィンターフェスト",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_SectionBG-bae1228d.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "JT1230",
+      "displayName": "ジャムトラック",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SnowMiku",
+      "displayName": "初音ミク",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_SectionBG-bae1228d.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND1230",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Ten_SectionBG-48c33842.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SilverThistleBILBOARDON",
+      "displayName": "ホグワーツの祝福",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_SectionBG-bae1228d.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_DroveRay_BG-c072bcd4.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_DroveRay_Character-0665fa69.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_DroveRay_Logo-a7d2f0bc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_DroveRay_Figure-8b358dc2.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_DroveRay_ItemStack-da4bb7ba.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_DroveRay_ItemStack_Juno-070b316e.png"
+      ],
+      "stackRankStart": "2025-12-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "KaiCenatBundle",
+      "displayName": "Kai Cenat",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_EssayView_SectionBG-f576b41b.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "DojaCatIcons",
+      "displayName": "Doja Cat",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0002_Dream-Clouds-ba9eded2.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-30T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BR1230",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-30T00:00:00.000Z"
+    }
+  ]
+}

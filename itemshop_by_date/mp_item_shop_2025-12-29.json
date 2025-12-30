@@ -1,30 +1,21 @@
 {
   "date": "2025-12-29",
-  "generatedAt": "2025-12-29T09:54:29.855935+09:00",
-  "count": 12,
+  "generatedAt": "2025-12-30T09:00:38.459269+09:00",
+  "count": 31,
   "sections": [
     {
-      "sectionId": "JohnWick",
-      "displayName": "ジョン・ウィック",
-      "customTexture": "https://cdn2.unrealengine.com/assassinsuit-sectionbg-v1-1920x1080-29ce37b89444.png",
-      "offerGroupsCount": 2,
-      "hasTextureMetadata": false,
-      "textureUrls": [],
-      "stackRankStart": "2025-12-29T00:00:00.000Z"
-    },
-    {
-      "sectionId": "FND122992147",
-      "displayName": "フォートナイト・ドロップ",
-      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Ten_SectionBG-48c33842.png",
+      "sectionId": "BR1229",
+      "displayName": "戦闘準備完了",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
       "offerGroupsCount": 5,
       "hasTextureMetadata": false,
       "textureUrls": [],
       "stackRankStart": "2025-12-29T00:00:00.000Z"
     },
     {
-      "sectionId": "VictoryVibes1229",
-      "displayName": "ビクトリー・バイブス",
-      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_VictoryVibes_SectionBG-edae1985.png",
+      "sectionId": "JohnWick",
+      "displayName": "ジョン・ウィック",
+      "customTexture": "https://cdn2.unrealengine.com/assassinsuit-sectionbg-v1-1920x1080-29ce37b89444.png",
       "offerGroupsCount": 2,
       "hasTextureMetadata": false,
       "textureUrls": [],
@@ -40,37 +31,46 @@
       "stackRankStart": "2025-12-29T00:00:00.000Z"
     },
     {
-      "sectionId": "LordGamoraWolverine",
-      "displayName": "ガーディアンズ・オブ・ギャラクシー",
-      "customTexture": "https://cdn2.unrealengine.com/31-40-billboard-motormonth-sectionbg-v1-1920x1080-9e0f7b2eaabc.jpg",
-      "offerGroupsCount": 3,
-      "hasTextureMetadata": false,
-      "textureUrls": [],
-      "stackRankStart": "2025-12-29T00:00:00.000Z"
-    },
-    {
-      "sectionId": "BR1229",
-      "displayName": "戦闘準備完了",
-      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0006_Drowning-Clouds-a2610812.png",
-      "offerGroupsCount": 5,
-      "hasTextureMetadata": false,
-      "textureUrls": [],
-      "stackRankStart": "2025-12-29T00:00:00.000Z"
-    },
-    {
-      "sectionId": "mclaren570s",
-      "displayName": "McLaren 570s",
-      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "sectionId": "ChampSurf",
+      "displayName": "FNCS",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_ChampionsRoad-7982d19e.png",
       "offerGroupsCount": 1,
       "hasTextureMetadata": false,
       "textureUrls": [],
       "stackRankStart": "2025-12-29T00:00:00.000Z"
     },
     {
-      "sectionId": "ishowspeed2",
-      "displayName": "iShowSpeed",
-      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_HonorBrace_SectionBG-6ecdb430.png",
-      "offerGroupsCount": 4,
+      "sectionId": "SimpsonsBart",
+      "displayName": "ザ・シンプソンズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-SectionBG_Ch6MS2_Week1-005ab379.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "StrangerThingsNewRF",
+      "displayName": "ストレンジャー・シングス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Vegetable_SectionBG-0426b41e.png",
+      "offerGroupsCount": 8,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "VictoryVibes1229",
+      "displayName": "ビクトリー・バイブス",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_VictoryVibes_SectionBG-edae1985.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "StreetFighter",
+      "displayName": "ストリートファイター",
+      "customTexture": "https://cdn2.unrealengine.com/dbz-sectionbg-v2-1920x1080-860a01223f92.png",
+      "offerGroupsCount": 6,
       "hasTextureMetadata": false,
       "textureUrls": [],
       "stackRankStart": "2025-12-29T00:00:00.000Z"
@@ -79,6 +79,15 @@
       "sectionId": "Winterfest1229",
       "displayName": "ウィンターフェスト",
       "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_SectionBG-bae1228d.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "FND122992147",
+      "displayName": "フォートナイト・ドロップ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Ten_SectionBG-48c33842.png",
       "offerGroupsCount": 5,
       "hasTextureMetadata": false,
       "textureUrls": [],
@@ -108,10 +117,178 @@
       "stackRankStart": "2025-12-29T00:00:00.000Z"
     },
     {
+      "sectionId": "BB",
+      "displayName": "バトルバス",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "HasherStarTrackBladeblast",
+      "displayName": "乗り物のアクセサリー",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BestSellers",
+      "displayName": "本日のベストセラー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-BestSellers_BG-d8b15f25.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ArcaneJinx2",
+      "displayName": "ゲーミングレジェンズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Default_BG_0007_Purple-Clouds-62b4ba90.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SnowMikuBILBOARDON",
+      "displayName": "初音ミク",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_SectionBG-bae1228d.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": true,
+      "textureUrls": [
+        "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_FlossYawn_BG-bcbf65e1.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FlossYawn_Character-84551909.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_DroveRay_Logo-a7d2f0bc.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FlossYawn_Figure-0cff6a13.png",
+        "https://cdn2.unrealengine.com/sk-Billboard_FlossYawn_ItemStck-74a4c6aa.png"
+      ],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LimitedTime",
+      "displayName": "特別オファー&バンドル",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 7,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "ishowspeed2",
+      "displayName": "iShowSpeed",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_HonorBrace_SectionBG-6ecdb430.png",
+      "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "LordGamoraWolverine",
+      "displayName": "ガーディアンズ・オブ・ギャラクシー",
+      "customTexture": "https://cdn2.unrealengine.com/31-40-billboard-motormonth-sectionbg-v1-1920x1080-9e0f7b2eaabc.jpg",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Goalbound",
+      "displayName": "ゴールバウンド",
+      "customTexture": "https://cdn2.unrealengine.com/billboard-warmshadeweasel-sectionbg-2-1921x1080-ac3495948f0f.jpg",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "KPop",
+      "displayName": "KPOPガールズ! デーモン・ハンターズ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Refrigerator_SectionBG-49e6d45d.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "Spongebob",
+      "displayName": "スポンジ・ボブ スクエアパンツ",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_WittyStork_SectionBG-c2e540ba.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "mclaren570s",
+      "displayName": "McLaren 570s",
+      "customTexture": "https://cdn2.unrealengine.com/default-delmar-v1-1920x1080-ff95861876f9.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SuperOG",
+      "displayName": "ORIGINシーズンショップ",
+      "customTexture": "https://cdn2.unrealengine.com/sectionbg-og-gray-1921x1081-d1515b27166e.png",
+      "offerGroupsCount": 1,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "NoSweat0419",
+      "displayName": "ノースウェット",
+      "customTexture": "https://cdn2.unrealengine.com/indigo-bg-2048x1024-ed2bb275d378.png",
+      "offerGroupsCount": 3,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BattlePassCrew",
+      "displayName": "フォートナイトクルー&パス",
+      "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
+      "offerGroupsCount": 6,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "SilverThistle",
+      "displayName": "ホグワーツの祝福",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_Winterfest_SectionBG-bae1228d.png",
+      "offerGroupsCount": 5,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
       "sectionId": "JT1229",
       "displayName": "ジャムトラック",
       "customTexture": "https://cdn2.unrealengine.com/default-sparks-sectionbg-v1-1920x1080-9b27879ce008.jpg",
       "offerGroupsCount": 4,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "BlackPinkLisa",
+      "displayName": "LISA",
+      "customTexture": "https://cdn2.unrealengine.com/31-40-billboard-shrimpstroll-bg-v1-1920x1080-b302ea1f2603.png",
+      "offerGroupsCount": 2,
+      "hasTextureMetadata": false,
+      "textureUrls": [],
+      "stackRankStart": "2025-12-29T00:00:00.000Z"
+    },
+    {
+      "sectionId": "B2F",
+      "displayName": "バック・トゥ・ザ・フューチャー",
+      "customTexture": "https://cdn2.unrealengine.com/sk-Billboard_GreyCar_SectionBG-b7fa4853.png",
+      "offerGroupsCount": 3,
       "hasTextureMetadata": false,
       "textureUrls": [],
       "stackRankStart": "2025-12-29T00:00:00.000Z"
